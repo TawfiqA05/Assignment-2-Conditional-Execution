@@ -12,3 +12,10 @@ What does the program do, include what it takes for input, and what it gives as 
 
 How do you use the program?
 
+    Make sure the dataset file covid_data_set.csv is available.
+
+    Open the Python script (assignment_2_pt_2.py) in your favorite IDE or text editor.
+    
+    Check that the provided code is properly inserted into the script.
+
+    Run the script in your Python environment, either through your IDE or by using the terminal.
